@@ -4,7 +4,7 @@
 	enteros ingresados por el usuario mediante scanf.
 	
 	Autor: 	  Nombre(s) de autor(es)
-	Licencia: GNU V3 -- https://www.gnu.org/licenses/licenses.es.html
+	Licencia: GPL V3 -- https://www.gnu.org/licenses/licenses.es.html
 	Fecha:	  24 de enero de 2022
 	Versión:  1.0.0
 */
