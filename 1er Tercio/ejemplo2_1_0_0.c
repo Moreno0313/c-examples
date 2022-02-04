@@ -29,8 +29,8 @@ int main (void)
 	/*tipo de variable de 16 bits*/
 	short int variable3 = 0;
 	unsigned short int variable3_u = 0;
-	uint16_t variable4 = 0; //para entero de 16b SIN signo
-	int16_t variable4_u = 0; //para entero de 16b CON signo
+	int16_t variable4 = 0; //para entero de 16b SIN signo
+	uint16_t variable4_u = 0; //para entero de 16b CON signo
 	
 	/****************************************
 	Parte de tamaños de variables
