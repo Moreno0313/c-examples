@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/ejemplo10_0_0.bin.dir/src/imprimir10_0_0.c.o CMakeFiles/ejemplo10_0_0.bin.dir/src/main.c.o CMakeFiles/ejemplo10_0_0.bin.dir/src/operaciones10_0_0.c.o  -o bin/ejemplo10_0_0.bin 

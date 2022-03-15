@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alse/Documents/2do_Tercio/ejemplo10_0_0/src/imprimir10_0_0.c
+lib_ejemplo10.h
+/home/alse/Documents/2do_Tercio/ejemplo10_0_0/src/lib_ejemplo10.h
+
+/home/alse/Documents/2do_Tercio/ejemplo10_0_0/src/main.c
+lib_ejemplo10.h
+/home/alse/Documents/2do_Tercio/ejemplo10_0_0/src/lib_ejemplo10.h
+
+/home/alse/Documents/2do_Tercio/ejemplo10_0_0/src/operaciones10_0_0.c
+lib_ejemplo10.h
+/home/alse/Documents/2do_Tercio/ejemplo10_0_0/src/lib_ejemplo10.h
+
+include/lib_ejemplo10.h
+stdio.h
+-
+stdint.h
+-
+
